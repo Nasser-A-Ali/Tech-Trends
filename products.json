@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "MacBook Air M1 (2022)",
+      "description": "The MacBook Air offers a sleek design, M2 chip, and up to 16GB of unified memory, perfect for both work and play.",
+      "category": "Laptops",
+      "rating": 4.5,
+      "inventory": 25,
+      "price": 999.99,
+      "discount_amount": 100.0,
+      "tags": ["laptop", "Apple", "M2 chip"],
+      "brand": "Apple",
+      "size_options": ["256GB", "512GB", "1TB"],
+      "image_path": "./images/macbook_air.jpeg"
+    },
+    {
+      "id": "002",
+      "name": "iPhone 8",
+      "description": "The iPhone 8 features a 4.7-inch Retina HD display and A11 Bionic chip, offering a classic experience with modern performance.",
+      "category": "Smartphones",
+      "rating": 4.0,
+      "inventory": 50,
+      "price": 399.99,
+      "discount_amount": 50.0,
+      "tags": ["smartphone", "Apple", "iOS"],
+      "brand": "Apple",
+      "size_options": ["64GB", "256GB"],
+      "image_path": "./images/iphone_8.jpeg"
+    },
+    {
+      "id": "003",
+      "name": "iPad Pro (12th Generation)",
+      "description": "The iPad Pro (12th Generation) offers a 12.9-inch Liquid Retina display and M2 chip, ideal for professional and creative tasks.",
+      "category": "Tablets",
+      "rating": 4.5,
+      "inventory": 15,
+      "price": 1199.99,
+      "discount_amount": 150.0,
+      "tags": ["tablet", "Apple", "M2 chip"],
+      "brand": "Apple",
+      "size_options": ["128GB", "256GB", "512GB", "1TB"],
+      "image_path": "./images/ipad_pro_12.jpeg"
+    },
+    {
+      "id": "004",
+      "name": "Galaxy S21",
+      "description": "The Galaxy S21 features a 6.2-inch AMOLED display and Exynos 2100 chip, delivering stunning visuals and high performance.",
+      "category": "Smartphones",
+      "rating": 4.6,
+      "inventory": 30,
+      "price": 799.99,
+      "discount_amount": 100.0,
+      "tags": ["smartphone", "Samsung", "Android"],
+      "brand": "Samsung",
+      "size_options": ["128GB", "256GB"],
+      "image_path": "./images/galaxy_s21.png"
+    },
+    {
+      "id": "005",
+      "name": "Surface Pro",
+      "description": "The Surface Pro combines a high-resolution PixelSense display with an Intel Core i7 processor, perfect for productivity on the go.",
+      "category": "Tablets",
+      "rating": 4.4,
+      "inventory": 20,
+      "price": 899.99,
+      "discount_amount": 120.0,
+      "tags": ["tablet", "Microsoft", "Surface"],
+      "brand": "Microsoft",
+      "size_options": ["128GB", "256GB", "512GB"],
+      "image_path": "./images/surface_pro.jpeg"
+    },
+    {
+      "id": "006",
+      "name": "iMac",
+      "description": "The iMac features a stunning 24-inch 4.5K Retina display and Apple M1 chip, blending power and elegance for a top-notch desktop experience.",
+      "category": "Desktops",
+      "rating": 3.0,
+      "inventory": 10,
+      "price": 1299.99,
+      "discount_amount": 200.0,
+      "tags": ["desktop", "Apple", "M1 chip"],
+      "brand": "Apple",
+      "size_options": ["256GB", "512GB", "1TB"],
+      "image_path": "./images/imac.jpeg"
+    }
+  ]
+}
