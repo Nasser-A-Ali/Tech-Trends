@@ -1,3 +1,29 @@
+# Brief Summary
+
+<p align="center">
+  <img width="800" alt="Screenshot 2024-09-03 at 10 19 04 PM" src="https://github.com/user-attachments/assets/8e936dcd-e987-4c62-bdfb-b6a73f7cae9e">
+</p>
+<p align="center">
+  <sub>
+    Preview of the home page
+  </sub>
+</p>
+<p align="center">
+  <img width="800" alt="Screenshot 2024-09-03 at 10 20 10 PM" src="https://github.com/user-attachments/assets/439b996f-2fe7-4f22-b9ea-c4bc691a2d68">
+</p>
+<p align="center">
+  <sub>
+    Preview of the cart page
+  </sub>
+</p>
+
+
+An ecommerce website for a fictional tech store called "Tech Trends". The website was designed in Figma and created using React.js. It pulls products and their details from a JSON file and displays them on the home page. The website also includes a cart page that displays the items that users added and displays the total cost of the items in the cart.
+
+<ins>Highlighted skills</ins>: React.js, React Hooks, React Server, React Router, HTML, CSS, JavaScript, DOM Manipulation, Conditional Rendering
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
